@@ -1,6 +1,6 @@
 Kaggle Competitions:
-a)Author Identification
-b)Statoil/C-CORE Iceberg Classifier Challenge
+a)Author Identification.
+b)Statoil/C-CORE Iceberg Classifier Challenge.
 We have participated in the ’Spooky Author Identification’ challenge where we have to identify the author given a text from
 one of the works of that particular author and the ’Statoil/C-CORE Iceberg Classifier Challenge’ where we
 are given an image in the form of band signals and we need to create a model to identify it as a ’ship’ or an
